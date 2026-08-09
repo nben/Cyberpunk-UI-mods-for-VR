@@ -7,9 +7,9 @@ I also recommend the mod HUDitor for everything else, I started with HUDitor and
 
 ScannerMove - two files, one for moving the quickhacks menu and crosshair, one for moving the info popup
 
-ContactMove - one file for moving the contacts hud
+ContactMove - one file for moving the contacts HUD
 
-TextsMove - one file for moving the unread texts hud
+TextsMove - one file for moving the unread texts HUD
 
 TooltipsMove - one file for moving the various notification popups - e.g. new message, new area, new quest , level up, new shard
 
