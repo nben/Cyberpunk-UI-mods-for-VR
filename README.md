@@ -21,6 +21,12 @@ Scripts need to go in Cyberpunk 2077/r6/scripts
 
 Not actually sure if subfolders are necessary but at least keeps it tidy
 
+# Editing
+
+Look for the "new inkMargin" or "new Vector2" variables in the scripts to edit the coordinates. Can't do it live in game unfortunately, I'm not smart enough to figure that out.
+
+For both inkMargin and Vector2, first coordinate is X, positive values move elements to the right, negative to the left. Second is Y, positive pushes down, negative up
+
 
 
 
