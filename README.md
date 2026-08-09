@@ -1,2 +1,21 @@
 # Cyberpunk-UI-mods-for-VR
 Gemini-generated redscript mods to reposition various hud elements in Cyberpunk, to make them visible in VR
+
+These are HUD elements which were either impossible or unreliable to move with Dariulone's HUD settings
+
+I also recommend the mod HUDitor for everything else, I started with HUDitor and then got Gemini to make the below mods to cover the rest - https://www.nexusmods.com/cyberpunk2077/mods/3315
+
+ScannerMove - two files, one for moving the quickhacks menu and crosshair, one for moving the info popup
+
+ContactMove - one file for moving the contacts hud
+
+TextsMove - one file for moving the unread texts hud
+
+TooltipsMove - one file for moving the various notification popups - e.g. new message, new area, new quest , level up, new shard
+
+TutorialMove - one file for moving the popup tutorial window (I started a new save to try the VR Mod)
+
+
+
+
+
