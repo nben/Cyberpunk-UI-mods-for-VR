@@ -15,6 +15,12 @@ TooltipsMove - one file for moving the various notification popups - e.g. new me
 
 TutorialMove - one file for moving the popup tutorial window (I started a new save to try the VR Mod)
 
+# Installing
+
+Scripts need to go in Cyberpunk 2077/r6/scripts
+
+Not actually sure if subfolders are necessary but at least keeps it tidy
+
 
 
 
