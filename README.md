@@ -1,5 +1,5 @@
 # Cyberpunk-UI-mods-for-VR
-Gemini-generated redscript mods to reposition various hud elements in Cyberpunk, to make them visible in VR
+Gemini-generated redscript mods to reposition various HUD elements in Cyberpunk, to make them visible in VR
 
 These are HUD elements which were either impossible or unreliable to move with Dariulone's HUD settings
 
